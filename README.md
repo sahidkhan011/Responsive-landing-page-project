@@ -1,2 +1,2 @@
-# web-development-project
-This is a web development end to end project
+# Responsive Landing page project
+This is a Responsive Landing page end to end project
